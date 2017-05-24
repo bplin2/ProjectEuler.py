@@ -8,3 +8,5 @@ for i in range(100,1000):
 			ans = i*j
 
 print ans
+
+#906609
