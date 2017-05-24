@@ -11,7 +11,7 @@ for x in xrange(2520, 1000000000, 2520):
 		print lcm(x)
 		break
 
-
+#232792560
 	
 
 
