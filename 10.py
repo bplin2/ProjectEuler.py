@@ -1,3 +1,3 @@
-import eulerlib as el
+from eulerlib import primes
 
-print sum(el.primes(2000000))
+print sum(primes(2000000))
