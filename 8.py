@@ -15,3 +15,5 @@ while i < len(num) - 12:
 	i += 1
 
 print ans
+
+#23514624000
