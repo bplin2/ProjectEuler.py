@@ -11,7 +11,7 @@ while i < len(num) - 12:
 
 		if product > ans:
 			ans = product
-			print ans
+
 	i += 1
 
 print ans
