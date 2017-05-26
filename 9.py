@@ -5,4 +5,5 @@ for a in range(1,1000):
 			ans = a*b*c
 
 print ans
-		
+
+#31875000
